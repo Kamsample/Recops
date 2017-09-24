@@ -1,2 +1,8 @@
 superb
+<<<<<<< HEAD
 good one
+=======
+
+anna
+
+>>>>>>> master
